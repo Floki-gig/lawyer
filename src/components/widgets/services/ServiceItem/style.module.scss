@@ -5,12 +5,13 @@
   justify-content: space-between;
   padding: 40px 40px 20px;
   position: relative;
+  border-radius: 16px;
 
   border: 1px solid red;
 }
 
 .iconBlock {
-  background-color: #FF5545;
+  background-color: #CA1D1D;
   padding: 5px;
   transform: skewX(5deg);
   position: absolute;
